@@ -1,5 +1,7 @@
 {
   "name": "twilio",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
